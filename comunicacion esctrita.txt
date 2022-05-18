@@ -1,3 +1,16 @@
 Concepto:
-La comunicación escrita es aquella que se establece a través de las palabras o de cualquier otro código escrito. El emisor y el receptor deben compartir el conocimiento de ese código en cuestión, para que la comunicación sea efectiva.
+La comunicación escrita es aquella que se establece a través de las palabras o de cualquier otro código escrito. El emisor y el receptor deben compartir el conocimiento de ese código en cuestión, para que la comunicación sea efectiva.C
+Caracteristicas:
+.Tiene cohesión de ideas.
+.Adapta el vocabulario dependiendo de la ocasión.
+.Sigue las reglas ortográficas y de gramática.
+.Los párrafos deben de estar conectados entre ellos y deben tener secuencia.
+.Tiene claridad para poder brindar la información adecuada.
+.Sus ideas se presentan en forma ordenada para evitar confundir al lector.
+.Deben de tener lógica.
+.Tiene relación entre el emisor y el receptor.
+En adición, también hemos de reseñar a las 2 características restantes:
+
+.Tiene un mayor grado de formalidad que la comunicación verbal
+.Y finalmente, necesita de un soporte y en la mayoría de los casos, un medio de transmisión intermediario como el correo postal o electrónico.
 
